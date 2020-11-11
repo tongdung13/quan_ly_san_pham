@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b943d24a-98a0-47ad-8790-8956f80c8bbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../oop1/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/Demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/phuongtringbac2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopphp/watch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Models/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuchanhathao/indec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuchanhathao/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuchanhathao/mainpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapthem1/chuyendoitiente.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapthem1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chuyendoitiente/df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chuyendoitiente/hienthisonguyento.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../chuyendoitiente/hienthisonguyento.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chuyendoitiente/songuyentonhohon100.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../chuyendoitiente/songuyentonhohon100.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dangkynguoidung/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dangkynguoidung/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../dangkynguoidung/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dangkynguoidung/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dangkynguoidung/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dangkynguoidung/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demkytuchuoi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../demkytuchuoi/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docsothanhchu" beforeDir="false" afterPath="$PROJECT_DIR$/../../docsothanhchu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gopmang/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../gopmang/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../hienthicachinh/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/isoscelestriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../hienthicachinh/isoscelestriangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../hienthicachinh/rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/squaretriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../hienthicachinh/squaretriangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/ssd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hienthicachinh/sđf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../isoscelestriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layout/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../layout/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../layout/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../layout/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layout/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../layout/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../layout/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../locdanhsachkhachhang/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../locdanhsachkhachhang/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maxmang2chieu/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../maxmang2chieu/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maytinhphp-1/contror.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../maytinhphp-1/contror.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maytinhphp-1/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../maytinhphp-1/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maytinhphp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../maytinhphp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../min/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../min/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../minnhapbanphim/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../minnhapbanphim/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motasanpham/dislay_discuont.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../motasanpham/dislay_discuont.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motasanpham/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../motasanpham/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopphp/class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../oopphp/class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopphp/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../oop1/static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopphp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../oopphp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../squaretriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thongbaonguoidungnhapsobathople/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../thongbaonguoidungnhapsobathople/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhathao/bai23.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanhathao/bai23.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhathao/bai3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanhathao/bai3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhathao/calculoter.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanhathao/calculoter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhathao/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanhathao/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuchanhphp" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanhphp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong1cot/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong1cot/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tongmatranvuong/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../tongmatranvuong/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../xoaphantutrongmang/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../xoaphantutrongmang/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k5kV0efx5l84UdanhcbCZb49Kh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b943d24a-98a0-47ad-8790-8956f80c8bbd" name="Default Changelist" comment="" />
+      <created>1604997860134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604997860134</updated>
+      <workItem from="1604997861205" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="27" width="473" height="568" key="NewPhpClassDialog" timestamp="1604997885940">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="634" y="27" width="473" height="568" key="NewPhpClassDialog/72.27.1294.741@72.27.1294.741" timestamp="1604997885940" />
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1604998061586">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1604998061586" />
+  </component>
+</project>
